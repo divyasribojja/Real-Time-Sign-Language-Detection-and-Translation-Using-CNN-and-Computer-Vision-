@@ -1,4 +1,5 @@
 📘 Real-Time Sign Language Detection and Translation using CNN & Computer Vision
+
 📌 Overview
 This project uses Convolutional Neural Networks (CNN) and Computer Vision (OpenCV) to detect hand gestures representing American Sign Language (ASL) letters in real-time through a webcam. It translates these gestures into corresponding alphabet characters, assisting in communication with the hearing or speech impaired.
 
