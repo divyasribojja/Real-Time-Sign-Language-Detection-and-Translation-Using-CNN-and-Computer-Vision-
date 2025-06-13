@@ -26,7 +26,7 @@ ASL Dataset	For training gesture classification
 Clone the Repository
 
 
-git clone https://github.com/yourusername/sign-language-detection.git
+git clone ```https://github.com/divyasribojja/Real-Time-Sign-Language-Detection-and-Translation-Using-CNN-and-Computer-Vision-.git ```
 cd sign-language-detection
 Install Dependencies
 
